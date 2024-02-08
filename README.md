@@ -41,7 +41,7 @@ It is a chain of home improvement and appliance stores that offers a variety of 
 SPRINT 02
 
 
-List of all the team members names
+**List of all the team members names**
 1)Revanth Appasani
 2)Akash Gadiparthi
 3)Gopichand Karanam
