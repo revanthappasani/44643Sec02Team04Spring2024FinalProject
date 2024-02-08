@@ -38,13 +38,14 @@ It is a chain of home improvement and appliance stores that offers a variety of 
 
 
 
-SPRINT 02
+**SPRINT 02**
 
 
 **List of all the team members names:**
 1.Revanth Appasani
 2.Akash Gadiparthi
 3.Gopichand Karanam
+**UI Design**
 
 ![image](https://github.com/revanthappasani/44643Sec02Team04Spring2024FinalProject/assets/143126804/ed2dec3d-e6f3-4cc5-979c-bf08210df4d6)
 
