@@ -102,6 +102,12 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N9b-oB-jCn">
+                                <rect key="frame" x="142" y="540" width="90" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="continue"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="bgT-ig-n5I"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
