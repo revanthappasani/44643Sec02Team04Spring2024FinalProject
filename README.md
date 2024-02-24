@@ -81,4 +81,7 @@ On the settings page, users can have options like customer service and settings 
 
 This is the final workflow of the project. The user enters screen 1 (login page) and is then redirected to the home page(screen 3). if the user is new, they would be redirected to the register page(Screen2) after moving to the home page. Using the search option user enters into product page (screen 4), by selecting the filters option user can enter into filter page (screen 5) Selecting the desired product user can enter into final cart page (screen 6).
 
+###added UI part 
+created login page, Register page and home page view controller.
+Added few connections into view controller.
  
