@@ -8,7 +8,11 @@
 import UIKit
 
 class RegisterViewController: UIViewController {
-
+    
+    
+    Auth.auth().createUser(withEmail: email, password: password) { authResult, error in
+      
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
 

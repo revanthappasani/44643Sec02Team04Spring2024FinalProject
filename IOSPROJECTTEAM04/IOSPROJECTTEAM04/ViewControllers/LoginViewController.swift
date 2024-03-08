@@ -6,12 +6,19 @@
 //
 
 import UIKit
+import FirebaseAuth
 
 class LoginViewController: UIViewController {
     
     @IBOutlet weak var usernameTextField: UITextField!
     @IBOutlet weak var passwordTextField: UITextField!
     
+   
+    Auth.auth().createUser(withPhoneNumber: phoneNumber, password: password) { authResult, error in
+      
+    }
+    
+   
     
     override func viewDidLoad() {
         super.viewDidLoad()
