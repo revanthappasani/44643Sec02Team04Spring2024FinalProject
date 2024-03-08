@@ -1,5 +1,5 @@
 //
-//  RegisterPage.swift
+//  HomePage.swift
 //  IOSPROJECTTEAM04
 //
 //  Created by Karanam Gopichand on 3/6/24.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class RegisterPage: UIViewController {
+class HomeViewController : UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
