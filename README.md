@@ -84,4 +84,9 @@ This is the final workflow of the project. The user enters screen 1 (login page)
 ###added UI part 
 created login page, Register page and home page view controller.
 Added few connections into view controller.
+
+###Sprint04 
+created view controllers for Login page,Register page,Home page and also outlets and actions too.
+Added segue for those controllers.
+Added Authentication code for Login page and register page.
  
