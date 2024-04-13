@@ -89,4 +89,6 @@ Added few connections into view controller.
 created view controllers for Login page,Register page,Home page and also outlets and actions too.
 Added segue for those controllers.
 Added Authentication code for Login page and register page.
- 
+
+###Sprint06
+made few changes and updated screens of the project
